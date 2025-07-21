@@ -54,3 +54,5 @@ Chest_bin (боль в груди от 1 до 4).
 
 Оценка заболеваемости (по предсказаниям): 43.71%
 Средняя вероятность заболевания: 44.46% 
+
+https://colab.research.google.com/drive/1dWn9Mzlbop5LRjILAwFvDqNENaECaz4H?usp=sharing
